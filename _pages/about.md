@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Construindo Juntos o Futuro da Cibersegurança
-
 Esta página é um espaço colaborativo de partilha de conhecimento sobre cibersegurança, criado **de alunos para alunos**. O nosso objetivo é reunir o que aprendemos ao longo do nosso percurso académico e, juntos, construir um repositório de recursos úteis, onde cada um de nós possa consolidar conceitos, trocar ideias e explorar novos temas de forma prática e acessível.
 
 🔒 **Cibersegurança para Todos**
