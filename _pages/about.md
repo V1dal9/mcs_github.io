@@ -26,12 +26,12 @@ Quer tenhas apontamentos, dicas, projetos ou apenas uma ideia interessante, a tu
 - Partilha apontamentos, dicas ou projetos.
 - O GitHub facilita a colaboração de todos.
 
-# Clonar o repositório para fazer alterações
+### Clonar o repositório para fazer alterações
 git clone https://github.com/seu-repositorio
 
-# Adicionar as alterações e fazer commit
+### Adicionar as alterações e fazer commit
 git add .
 git commit -m "Adicionei novos apontamentos"
 
-# Enviar alterações para o GitHub
+### Enviar alterações para o GitHub
 git push origin main
