@@ -26,11 +26,7 @@ Quer tenhas apontamentos, dicas, projetos ou apenas uma ideia interessante, a tu
 - Partilha apontamentos, dicas ou projetos.
 - O GitHub facilita a colaboração de todos.
 
-![GitHub](https://image-link.png)
-
 ## Exemplo de Contribuição com Git
-
-```bash
 # Clonar o repositório para fazer alterações
 git clone https://github.com/seu-repositorio
 
