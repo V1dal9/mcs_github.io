@@ -1,7 +1,7 @@
 ---
-permalink: /markdown/
-title: "Markdown"
-author_profile: true
+permalink: /recursos/
+title: "Recursos"
+author_profile: false
 redirect_from: 
   - /md/
   - /markdown.html
