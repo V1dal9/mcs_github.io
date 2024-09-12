@@ -1,14 +1,44 @@
 ---
 permalink: /
-title: "Construindo Juntos a Próxima Geração de Especialistas em Cibersegurança"
+title: "Construindo Juntos o Futuro da Cibersegurança"
 author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Esta página foi criada com o objetivo de ser um repositório colaborativo de conhecimento sobre cibersegurança, feito de alunos para alunos. A ideia principal é partilharmos entre nós o que aprendemos ao longo do nosso percurso académico, ajudando-nos mutuamente a consolidar conceitos, trocar ideias e explorar novos temas de forma prática e acessível.
+# Construindo Juntos o Futuro da Cibersegurança
 
-Como está alojada no GitHub Pages, qualquer pessoa pode contribuir para o seu crescimento. A participação de todos é essencial para criarmos um recurso verdadeiramente útil e dinâmico. Quer tenhas apontamentos, dicas, projetos ou ideias, todos são bem-vindos a adicionar e editar conteúdos.
+Esta página é um espaço colaborativo de partilha de conhecimento sobre cibersegurança, criado **de alunos para alunos**. O nosso objetivo é reunir o que aprendemos ao longo do nosso percurso académico e, juntos, construir um repositório de recursos úteis, onde cada um de nós possa consolidar conceitos, trocar ideias e explorar novos temas de forma prática e acessível.
 
-Juntos, podemos construir uma plataforma de aprendizagem colaborativa que beneficia não só a nossa turma, mas qualquer pessoa interessada em cibersegurança. Este é um espaço aberto para discussão e inovação, onde a contribuição de cada um torna o projeto mais completo e interessante. Vamos aprender e crescer juntos, partilhando conhecimentos e fortalecendo a comunidade de cibersegurança.
+🔒 **Cibersegurança para Todos**
+
+## Objetivos da Página
+
+Através do GitHub Pages, abrimos a porta para que qualquer pessoa interessada possa participar e contribuir para o crescimento desta plataforma. Acreditamos que a diversidade de perspetivas e conhecimentos torna este projeto mais dinâmico e enriquecedor. 
+
+Quer tenhas apontamentos, dicas, projetos ou apenas uma ideia interessante, a tua contribuição é valiosa!
+
+🎓 **Juntos, vamos transformar o estudo em algo colaborativo e inovador!**
+
+## Como Participar
+
+- Qualquer pessoa pode contribuir no GitHub Pages.
+- Adiciona ou edita conteúdos.
+- Partilha apontamentos, dicas ou projetos.
+- O GitHub facilita a colaboração de todos.
+
+![GitHub](https://image-link.png)
+
+## Exemplo de Contribuição com Git
+
+```bash
+# Clonar o repositório para fazer alterações
+git clone https://github.com/seu-repositorio
+
+# Adicionar as alterações e fazer commit
+git add .
+git commit -m "Adicionei novos apontamentos"
+
+# Enviar alterações para o GitHub
+git push origin main
