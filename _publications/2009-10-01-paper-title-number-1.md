@@ -11,6 +11,8 @@ paperurl: 'https://v1dal9.github.io/mcs_github.io/files/paper1.pdf'
 paperurl2: 'https://v1dal9.github.io/mcs_github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+{% include base_path %}
+
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
