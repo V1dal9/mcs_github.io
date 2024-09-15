@@ -21,8 +21,22 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <p><a href=" https://v1dal9.github.io/mcs_github.io/files/paper1.pdf ">Introdução à Criptografia</a></p>
-    <p><a href="  {{ post.paperurl2 }} ">Introdução à criptografia 2</a></p>
+    <div>
+        <p>
+            <a href=" https://v1dal9.github.io/mcs_github.io/files/paper1.pdf ">Introdução à Criptografia</a>
+        </p>
+        <p>
+            The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. 
+        <p>
+    </div>
+    <div>
+        <p>
+            <a href=" https://v1dal9.github.io/mcs_github.io/files/paper1.pdf ">Introdução à criptografia 2</a>
+        </p>
+        <p>
+            The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader.
+        </p>
+    </div>
   </article>
 </div>
 
